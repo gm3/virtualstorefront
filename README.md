@@ -1,2 +1,1 @@
-# virtualstorefront
-A Virtual Storefront
+# webvrshop
